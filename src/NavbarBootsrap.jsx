@@ -4,7 +4,7 @@ class NavbarBootsrap extends React.Component {
    render() {
       return (
         <Navbar bg="dark" variant="dark">
-        <Navbar.Brand href="/">Vivek</Navbar.Brand>
+        <Navbar.Brand href="/">School</Navbar.Brand>
         <Nav className="mr-auto">
         <Nav.Link href="/login">Login</Nav.Link>
           <Nav.Link href="/home">Home</Nav.Link>
